@@ -1,5 +1,5 @@
 # african-financial-crises-analysis
-End-to-end financial risk analysis on 13 African countries (1870–2014) · Python · MySQL · Power BI
+End-to-end financial risk analysis on 13 African countries (1860–2014) · Python · MySQL · Power BI
 
 
 # African Financial Crisis Analysis
@@ -22,7 +22,7 @@ Dimensions:
 - Variables: Macroeconomic indicators and crisis event indicators  
 
 Time coverage:
-Historical observations spanning several decades (1870-2014).
+Historical observations spanning several decades (1860-2014).
 
 Categories of variables:
 - Segmentation variables: Country  
